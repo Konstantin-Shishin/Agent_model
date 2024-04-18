@@ -1,0 +1,5404 @@
+{
+    "agents": [
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": true,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "RIM",
+            "a": false,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "FULL_GRAPH",
+            "a": true,
+            "st": true,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": false
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": true,
+            "st": false,
+            "cf": true
+        },
+        {
+            "bypass_type": "CROSS",
+            "a": false,
+            "st": false,
+            "cf": true
+        }
+    ]
+}

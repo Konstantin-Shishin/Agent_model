@@ -172,7 +172,7 @@ def generate_test_json(filename, num_agents=100):
     data = {
         'agents': [
             {
-                'bypass_type': 'CROSS',
+                'bypass_type': 'FULL_GRAPH',
                 'a': random.choice([True, False]),
                 'st': random.choice([True, False]),
                 'cf': random.choice([True, False])
@@ -244,9 +244,25 @@ def save_opinion_map(opinion_field, step, folder='opinion_maps'):
 
 
 if __name__ == "__main__":
-    filename = 'test.json'
     count = 900
-    generate_test_json_random(filename,count)
+    
+    # генерация данных
+    # filename = 'data_all_random_balanced_opinion.json'
+    # generate_test_json_balanced(filename,count)
+
+    # Список файлов в папке проекта
+    files = ["data_only_rim.json", "data_only_cross.json", "data_only_full_graph.json", "data_all_random.json", "data_all_random_balanced_opinion.json"]
+
+    # Выводим пользователю список файлов и просим выбрать
+    print("Выберите файл для чтения данных:")
+    for i, file in enumerate(files, start=1):
+        print(f"{i}. {file}")
+
+    # Запрашиваем у пользователя выбор файла
+    choice = input("Введите номер файла: ")
+
+    # Выбираем имя файла на основе выбора пользователя
+    filename = files[int(choice) - 1]
     # Чтение данных из JSON-файла
     data = read_data_from_json(filename)
 
