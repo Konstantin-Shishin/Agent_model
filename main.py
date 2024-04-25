@@ -6,6 +6,7 @@ import random
 from enum import Enum, auto
 import os
 import numpy as np
+import random
 
 
 class BypassType(Enum):
@@ -29,6 +30,8 @@ class Agent:
         self.a = a
         self.st = stubborn
         self.cf = conformist
+    def __str__(self) -> str:
+        return f'opinion: {self.a}, ypram: {self.st}, conf: {self.cf} '
 
     def compute_opinion(self, count_a, count_b):
         #Если агент упрямый, его мнение не изменится.
@@ -101,8 +104,21 @@ class Simulation:
         self.field_size = field_size
         self.num_steps = num_steps
         # Измените эту строку, чтобы использовать агентов из списка
-        self.opinion_field = [[agents[i * field_size[1] + j] for j in range(field_size[1])]
-                              for i in range(field_size[0])]
+        # self.opinion_field = [[agents[i * field_size[1] + j] for j in range(field_size[1])]
+        #                       for i in range(field_size[0])]
+        self.opinion_field = agents
+
+        
+        # for sublist in self.opinion_field:
+        #     random.shuffle(sublist)
+
+        # # Перемешиваем вложенные списки
+        # random.shuffle(self.opinion_field)
+        #random.shuffle(self.opinion_field)
+        # for str in self.opinion_field:
+        #     print('new str')
+        #     for col in str:
+        #         print(col)
 
     def print_opinion_distribution(self, opinion_field):
         count_a = sum(sum(1 for agent in row if agent.a) for row in opinion_field)
@@ -157,7 +173,7 @@ def plot_graphs(data):
         entropy.append(entry['Entropy'])
         share_a.append(entry['Share opinion A'])
 
-    plt.plot(time, entropy, label='Энтропия')
+    # plt.plot(time, entropy, label='Энтропия')
     plt.plot(time, share_a, label='Доля мнения A')
 
     plt.title('Изменение энтропии и доли мнения A по времени')
@@ -250,30 +266,66 @@ if __name__ == "__main__":
     # filename = 'data_all_random_balanced_opinion.json'
     # generate_test_json_balanced(filename,count)
 
-    # Список файлов в папке проекта
-    files = ["data_only_rim.json", "data_only_cross.json", "data_only_full_graph.json", "data_all_random.json", "data_all_random_balanced_opinion.json"]
+    # # Список файлов в папке проекта
+    # files = ["data_only_rim.json", "data_only_cross.json", "data_only_full_graph.json", "data_all_random.json", "data_all_random_balanced_opinion.json"]
 
-    # Выводим пользователю список файлов и просим выбрать
-    print("Выберите файл для чтения данных:")
-    for i, file in enumerate(files, start=1):
-        print(f"{i}. {file}")
+    # # Выводим пользователю список файлов и просим выбрать
+    # print("Выберите файл для чтения данных:")
+    # for i, file in enumerate(files, start=1):
+    #     print(f"{i}. {file}")
 
-    # Запрашиваем у пользователя выбор файла
-    choice = input("Введите номер файла: ")
+    # # Запрашиваем у пользователя выбор файла
+    # choice = input("Введите номер файла: ")
 
-    # Выбираем имя файла на основе выбора пользователя
-    filename = files[int(choice) - 1]
-    # Чтение данных из JSON-файла
-    data = read_data_from_json(filename)
+    # # Выбираем имя файла на основе выбора пользователя
+    # filename = files[int(choice) - 1]
+    # # Чтение данных из JSON-файла
+    # data = read_data_from_json(filename)
 
-    # Инициализируем агентов для симуляции
-    agents_data = data['agents']
-    agents = [
-        Agent(bypass_type=BypassType[agent['bypass_type']], a=agent['a'], stubborn=agent['st'], conformist=agent['cf'])
-        for agent in agents_data]
+    with open('config_2.json', 'r') as f:
+        config = json.load(f)
+    
+    max_iterations = config['iterations']
+    neighbours_type = config['field_type']
+    field_size = config['field_size']
+    grid = np.array(json.loads(config['field']))
+    opinion_matrix = np.array(json.loads(config['opinions']))
+
+    print(max_iterations, neighbours_type, field_size)
+    print('grid')
+    print(grid)
+    print('opinion')
+    print(opinion_matrix)
+
+
+    agents = []
+    # for row in grid:
+    #     for col in row:
+    #         agent = Agent(a=True if col == 0 else False, stubborn= )
+    iter = 0 
+    for row1, row2 in zip(grid, opinion_matrix):
+        for gr, op in zip(row1, row2):
+            # print(gr, op)
+            agents.append(Agent(a=False if gr == 0 else True, stubborn= True if op ==2 else False, conformist=True if op ==0 else False ))
+
+    # Делим список на части по n элементов
+    agents = [agents[i:i + field_size] for i in range(0, len(agents), field_size)]
+    # for i in agents:
+    #     print(i)
+
+    # for row in agents:
+    #     print(row)
+
+    # print(len(agents))
+    # # Инициализируем агентов для симуляции
+    # agents_data = data['agents']
+    # agents = [
+    #     Agent(bypass_type=BypassType['ynhjgbzagent['bypass_type']], a=agent['a'], stubborn=agent['st'], conformist=agent['cf'])
+    #     for agent in agents_data]
+    # field_size = [int(x) for x in field_size.strip('[]').split(',')]
 
     # Создаем симуляцию
-    simulation = Simulation(agents,(30, 30))
+    simulation = Simulation(agents, (field_size, field_size ), max_iterations)
 
     # Выполняем симуляцию
     simulation_data = simulation.simulate()
